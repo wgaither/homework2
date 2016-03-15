@@ -1,0 +1,30 @@
+body {
+	font-family:Arial,Helvettica,sans-serif,Garmond;
+	background-color:#a3bbc2;
+}
+header{
+	width:80%
+	background-color:skyblue;
+	color:black;
+	margin-right:auto;
+	margin-left:auto;
+	padding:10px;
+}
+h1 {
+	font-size:2em;
+	margin:0;
+	padding:0;
+	padding-top:10px;
+}
+h2 {
+	font-size:1.6;
+}
+footer {
+	background-color:brown;
+	color:yellow;
+	margin-right: auto;
+	margin-left: auto;
+	height:20px;
+	padding:10px;
+
+}
